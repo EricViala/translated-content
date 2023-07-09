@@ -107,7 +107,7 @@ value2
 
 ## Notas de compatibilidade
 
-- Firefox 5 lida com o cabeçalho de resposta HTTP `Content-Disposition` mais efetivamente se ambos parâmetros `filename` e `filename*` são providos; ele olha através de todos os nomes providenciados, usando o parâmetro `filename*` se um estiver disponível, mesmo se o parâmetro `filename` estiver incluído primeiro. Anteriormente, o primeiro parâmetro que combinasse seria utilizado, Previously, the first matching parameter would be used, desse modo prevenindo um nome mais apropriado de ser utilizado. Veja {{bug(588781)}}.
+- Firefox 5 lida com o cabeçalho de resposta HTTP `Content-Disposition` mais efetivamente se ambos parâmetros `filename` e `filename*` são providos; ele olha através de todos os nomes providenciados, usando o parâmetro `filename*` se um estiver disponível, mesmo se o parâmetro `filename` estiver incluído primeiro. Anteriormente, o primeiro parâmetro que combinasse seria utilizado, Previously, the first matching parameter would be used, desse modo prevenindo um nome mais apropriado de ser utilizado. Veja [Erro do Firefox 88781](https://bugzil.la/88781).
 
 ## Veja também
 

@@ -80,10 +80,10 @@ As propriedades a seguir pertencem a instâncias de um `RegExp`, não mais ao ob
 - [Proxy.create](/pt-BR/docs/Archive/Web/Old_Proxy_API) e [Proxy.createFunction](/pt-BR/docs/Archive/Web/Old_Proxy_API) foram descontinuadas. Use {{jsxref("Proxy")}} no lugar delas.
 - As armadilhas a seguir ficaram obsoletas:
 
-  - `hasOwn` ({{bug(980565)}}, Firefox 33).
-  - `getEnumerablePropertyKeys` ({{bug(783829)}}, Firefox 37)
-  - `getOwnPropertyNames` ({{bug(1007334)}}, Firefox 33)
-  - `keys` ({{bug(1007334)}}, Firefox 33)
+  - `hasOwn` ([Erro do Firefox 80565](https://bugzil.la/80565), Firefox 33).
+  - `getEnumerablePropertyKeys` ([Erro do Firefox 83829](https://bugzil.la/83829), Firefox 37)
+  - `getOwnPropertyNames` ([Erro do Firefox 007334](https://bugzil.la/007334), Firefox 33)
+  - `keys` ([Erro do Firefox 007334](https://bugzil.la/007334), Firefox 33)
 
 ### let
 
