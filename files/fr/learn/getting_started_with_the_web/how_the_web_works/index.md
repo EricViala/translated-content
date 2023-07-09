@@ -68,7 +68,7 @@ Ce sont des {{Glossary("IP Address", "adresses IP")}} ; elles représentent un e
 
 Il est possible d'atteindre directement les sites web en utilisant leurs adresses IP. Pour aller sur le site de Mozilla, vous pouvez saisir `63.245.215.20` dans la barre d'adresse d'un nouvel onglet de votre navigateur. Vous pouvez utiliser un outil de recherche DNS comme [nslookup.io](https://www.nslookup.io/website-to-ip-lookup/) pour trouver l'adresse IP d'un site web.
 
-![A domain name is just another form of an IP address](dns-ip.png)
+![Un nom de domaine est juste une autre forme de l'adresse IP](dns-ip.png)
 
 ## Explications sur les paquets
 
